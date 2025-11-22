@@ -1,5 +1,7 @@
 ### Getting Started
 
+this is my first thing I made with my buddy Jakob, and Andrew for Battle of the Quants
+
 Clone the repository
 ```bash
 git clone https://github.com/andrewhall1124/mean_reversion.git
